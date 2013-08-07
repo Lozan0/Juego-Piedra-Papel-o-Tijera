@@ -1,0 +1,31 @@
+#contenedora {
+	height: auto;
+	width: 400px;
+	background-color: #EFEFEF;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	color: #000;
+	text-decoration: none;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	/*para Firefox*/
+	-moz-border-radius: 20px;
+	/*para Safari y Chrome*/
+	-webkit-border-radius: 20px;
+	/* para Opera */
+	border-radius: 20px;
+}
+
+#boton-empezar{
+	height: 40px;
+	width: 70px;
+	position:relative;
+	left:120px;
+	top:-80px;
+
+}
