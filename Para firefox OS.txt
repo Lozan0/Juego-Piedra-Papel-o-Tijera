@@ -1,0 +1,1 @@
+Esta aplicacion funciona bajo Firefox OS
