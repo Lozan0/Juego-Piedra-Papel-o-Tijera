@@ -10,7 +10,7 @@
   },
   "developer": {
     "name": "Santiago Lozan0",
-    "url": "http://n0-n3.blogspot.com/"
+    "url": "http://lozan0.github.io/"
   },
   "installs_allowed_from": ["*"],
 
@@ -18,13 +18,13 @@
     "es": {
       "description": "Juego Piedra, Papel o Tijera",
       "developer": {
-        "url": "http://n0-n3.blogspot.com/"
+        "url": "http://lozan0.github.io"
       }
     },
     "it": {
       "description": "Juego Piedra, Papel o Tijera",
       "developer": {
-        "url": "http://n0-n3.blogspot.com/"
+        "url": "http://lozan0.github.io/"
       }
     }
   },
